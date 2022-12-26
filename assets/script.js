@@ -1,0 +1,1 @@
+var topics = "HTML, CSS, GIT, JavaScript";
